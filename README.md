@@ -13,3 +13,12 @@ This project automates the processing of TV broadcast schedules. It transforms r
 
 ## Note
 This is a portfolio project demonstrating ETL logic. It requires private credentials to run locally.
+
+## Input - Output
+<img width="1661" height="616" alt="Captura de pantalla 2026-03-01 204259" src="https://github.com/user-attachments/assets/219569be-6244-4e3a-a0ba-dba4f4d1c568" />
+
+--------------------------------------------------------------------------------------------------------------
+
+<img width="1130" height="718" alt="Captura de pantalla 2026-03-01 222247" src="https://github.com/user-attachments/assets/63f3788b-d465-4144-ab57-df378f4a15e2" />
+
+
